@@ -1,0 +1,21 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "A full-stack file organization utility with CLI and web interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cli": "node cli.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "file-organizer",
+    "cli",
+    "web-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
