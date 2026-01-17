@@ -4,7 +4,7 @@ A full-stack Node.js project that helps you organize messy folders (Downloads/De
 
 🔗 Live Demo: https://fileorganizerproject.vercel.app/
 
-🎥 YouTube Demo: https://youtube.com/your-video-link
+🎥 YouTube Demo: https://youtu.be/-qPcQDyhXXI
 
 📌 GitHub Repo: https://github.com/harshrajwani0404/File-Organizer
 
@@ -60,7 +60,7 @@ Live Link: https://fileorganizerproject.vercel.app/
 
 🎬 Demo Video
 
-YouTube: https://youtube.com/your-video-link
+YouTube: https://youtu.be/-qPcQDyhXXI
 
 👤 Author
 
